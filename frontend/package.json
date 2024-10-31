@@ -18,14 +18,22 @@
     "@tanstack/react-query": "^5.28.14",
     "@tanstack/react-query-devtools": "^5.28.14",
     "@tanstack/react-router": "1.19.1",
+    "@types/d3": "^7.4.3",
+    "@types/topojson-client": "^3.1.5",
+    "@types/topojson-server": "^3.0.4",
+    "@types/topojson-simplify": "^3.0.3",
     "axios": "1.7.4",
+    "d3": "^7.9.0",
     "form-data": "4.0.0",
     "framer-motion": "10.16.16",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-error-boundary": "^4.0.13",
     "react-hook-form": "7.49.3",
-    "react-icons": "5.0.1"
+    "react-icons": "5.0.1",
+    "topojson-client": "^3.1.0",
+    "topojson-server": "^3.0.1",
+    "topojson-simplify": "^3.0.3"
   },
   "devDependencies": {
     "@biomejs/biome": "1.6.1",
